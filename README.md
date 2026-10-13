@@ -1,3 +1,13 @@
+---
+title: BIS Quiz App 2026
+emoji: 🇮🇳
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🇮🇳 Bureau of Indian Standards (BIS) Quiz Application
 
 A full-stack, mobile-friendly interactive quiz web application designed for conducting college and institutional competitions on the **Bureau of Indian Standards (BIS)**.
